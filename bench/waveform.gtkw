@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
+[*] Tue Sep 11 20:36:17 2012
+[*]
+[dumpfile] "/home/gdteixeira/Dev/flaming-archer/bench/waveform.vcd"
+[dumpfile_mtime] "Tue Sep 11 20:35:18 2012"
+[dumpfile_size] 22294345
+[savefile] "/home/gdteixeira/Dev/flaming-archer/bench/waveform.gtkw"
+[timestart] 0
+[size] 1535 876
+[pos] -1 -1
+*-12.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 257
+@28
+test_bench.clk
+@22
+test_bench.data[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
