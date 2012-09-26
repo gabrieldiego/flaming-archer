@@ -1,7 +1,11 @@
-all:
+all: test-bench
+
+test-bench:
 	iverilog -o test-bench test-bench.v
 
-sim: all
+sim: waveform.vcd
+
+waveform.vcd: test-bench
 	vvp test-bench
 
 wave: sim
