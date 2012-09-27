@@ -2,10 +2,10 @@
 [*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
 [*] Tue Sep 11 20:36:17 2012
 [*]
-[dumpfile] "/home/gdteixeira/Dev/flaming-archer/bench/waveform.vcd"
+[dumpfile] "/home/gdteixeira/Dev/flaming-archer/bench/waveform-frame-buffer.vcd"
 [dumpfile_mtime] "Tue Sep 11 20:35:18 2012"
 [dumpfile_size] 22294345
-[savefile] "/home/gdteixeira/Dev/flaming-archer/bench/waveform.gtkw"
+[savefile] "/home/gdteixeira/Dev/flaming-archer/bench/waveform-frame-buffer.gtkw"
 [timestart] 0
 [size] 1535 876
 [pos] -1 -1

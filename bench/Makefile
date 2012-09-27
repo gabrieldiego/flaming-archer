@@ -1,15 +1,21 @@
-all: test-bench
+MODULES=frame-buffer
+TEST_BENCHS=$(addprefix test-bench-,$(MODULES))
+WAVEFORMS=$(addsuffix .vcd,$(addprefix waveform-,$(MODULES)))
 
-test-bench:
-	iverilog -o test-bench test-bench.v
+all: sim
 
-sim: waveform.vcd
+benchs: $(TEST_BENCHS)
 
-waveform.vcd: test-bench
-	vvp test-bench
+test-bench-%:
+	iverilog -o $@ $@.v ../rtl/*.v
 
-wave: sim
-	gtkwave waveform.gtkw
+sim: $(WAVEFORMS)
+
+waveform-%.vcd: test-bench-%
+	vvp $<
+
+waveform-%: waveform-%.vcd
+	gtkwave $@.gtkw
 
 clean:
-	rm -rf a.out waveform.vcd test-bench
+	rm -rf $(WAVEFORMS) $(TEST_BENCHS)

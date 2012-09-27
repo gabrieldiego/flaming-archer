@@ -14,9 +14,15 @@ module test_bench (
   integer   code;
   reg [8*10:1] str;
 
+  reg [11:0] stride;
+  reg [11:0] width;
+  reg [11:0] height;
+
+  reg setup_frame;
+
   initial begin
 
-    $dumpfile("waveform.vcd");
+    $dumpfile("waveform-frame-buffer.vcd");
     $dumpvars(0,test_bench);
 
     fd = $fopen("bus_cif.yuv","r"); 
@@ -25,6 +31,18 @@ module test_bench (
     code = 1;
 
 //    $monitor("data = %x", data);
+
+    @(posedge clk);
+    setup_frame = 1;
+    stride = 2048;
+    width = 1920;
+    height = 1080;
+
+    @(posedge clk);
+    setup_frame = 0;
+    stride = 0;
+    width = 0;
+    height = 0;
 
     while (code) begin
       code = $fread(data, fd);
@@ -36,5 +54,10 @@ module test_bench (
   end // initial begin
 
   always #5 clk = ~clk;
+
+  frame_buffer #(.MEM_WIDTH(64)) test_frame_buffer (
+    .clk(clk), .setup_frame(setup_frame),
+    .stride_in(stride), .width_in(width), .height_in(height)
+  );
 
 endmodule // test_bench
