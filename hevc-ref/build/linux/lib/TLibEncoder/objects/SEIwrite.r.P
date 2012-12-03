@@ -1,0 +1,17 @@
+objects/SEIwrite.r.o: \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SEIwrite.cpp \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitCounter.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/SEI.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SEIwrite.h
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SEIwrite.cpp :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitCounter.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/SEI.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SEIwrite.h :

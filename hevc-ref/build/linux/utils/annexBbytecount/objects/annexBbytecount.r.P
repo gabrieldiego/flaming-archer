@@ -1,0 +1,5 @@
+objects/annexBbytecount.r.o: \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h :

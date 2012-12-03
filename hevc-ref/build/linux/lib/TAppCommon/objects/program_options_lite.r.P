@@ -1,0 +1,5 @@
+objects/program_options_lite.r.o: \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.h
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.h :

@@ -1,0 +1,15 @@
+objects/NALwrite.r.o: \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :

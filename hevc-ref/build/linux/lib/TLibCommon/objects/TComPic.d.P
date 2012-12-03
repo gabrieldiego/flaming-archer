@@ -1,0 +1,35 @@
+objects/TComPic.d.o: \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPic.cpp \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPic.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPicSym.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComSlice.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComList.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComDataCU.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMotionInfo.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMv.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPattern.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPicYuv.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/SEI.h
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPic.cpp :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPic.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPicSym.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComSlice.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComList.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComDataCU.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMotionInfo.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMv.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPattern.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPicYuv.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/gdteixeira/Dev/flaming-archer/hevc-ref/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/SEI.h :
