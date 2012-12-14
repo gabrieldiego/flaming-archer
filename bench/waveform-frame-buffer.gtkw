@@ -17,6 +17,6 @@
 @28
 test_bench.clk
 @22
-test_bench.data[7:0]
+test_bench.data[63:0]
 [pattern_trace] 1
 [pattern_trace] 0
